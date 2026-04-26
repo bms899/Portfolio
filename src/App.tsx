@@ -39,10 +39,10 @@ const skills = [
     { name: 'GIT', icon: 'git.svg', desc: 'Controle de versão distribuído para equipes.', level: 90 },
     { name: 'GitHub', icon: 'github.svg', desc: 'Plataforma para repositórios e CI/CD.', level: 90 },
     { name: 'Docker', icon: 'docker.svg', desc: 'Containerização para deployments consistentes.', level: 85 },
-    { name: 'Postgres', icon: 'postgresql.svg', desc: 'SGBD relacional avançado com suporte JSON.', level: 80 },
+    { name: 'Postgressql', icon: 'postgresql.svg', desc: 'SGBD relacional avançado com suporte JSON.', level: 80 },
     { name: 'Nginx', icon: 'nginx.svg', desc: 'Servidor web e reverse proxy de alta performance.', level: 75 },
     { name: 'MySQL', icon: 'mysql.svg', desc: 'Banco relacional clássico para dados estruturados.', level: 80 },
-    { name: 'NoSQL', icon: 'mongodb.svg', desc: 'MongoDB para dados flexíveis e escaláveis.', level: 75 },
+    { name: 'Mongodb', icon: 'mongodb.svg', desc: 'MongoDB para dados flexíveis e escaláveis.', level: 75 },
     { name: 'HTML', icon: 'html5.svg', desc: 'Estrutura semântica moderna para web.', level: 95 },
     { name: 'CSS', icon: 'css3.svg', desc: 'Estilos responsivos, animations e layouts avançados.', level: 90 }
   ]
